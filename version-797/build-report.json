@@ -1,0 +1,23 @@
+{
+  "parsed_records": 2000,
+  "movies_generated": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "categorized_movies": 2000,
+  "html_pages": 2014,
+  "image_files_in_zip": 0,
+  "analytics_missing_pages": [],
+  "category_distribution": {
+    "欧美精选": 200,
+    "高清电影": 200,
+    "热门剧集": 200,
+    "动漫动画": 200,
+    "动作冒险": 200,
+    "悬疑惊悚": 200,
+    "爱情剧情": 200,
+    "科幻奇幻": 200,
+    "喜剧家庭": 200,
+    "年度热播": 200
+  },
+  "m3u8_bound_movies": 2000
+}
